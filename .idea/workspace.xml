@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb0554ec-abd1-4ca3-9de3-b63043332f5c" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/illuminatedCloud.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/All_Tests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encetech-Dev-Org.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IlluminatedCloud/Encetech_Dev_Org/OfflineSymbolTable.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apexEmailNotifications/apexEmailNotifications.notifications" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/appMenus/AppSwitcher.appMenu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/appMenus/Salesforce1.appMenu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__AllTabSet.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__AppLauncher.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__Chatter.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__Community.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__Content.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__DataManager.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__Insights.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__LightningBolt.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__LightningInstrumentation.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__LightningSales.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__LightningSalesConsole.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__LightningScheduler.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__LightningService.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__Marketing.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__Platform.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__QueueManagement.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__Sales.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__SalesforceCMS.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__Service.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__ServiceConsole.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/standard__Sites.app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/appointmentSchedulingPolicies/default_appointment_scheduling_policy.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignmentRules/Case.assignmentRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignmentRules/Lead.assignmentRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/autoResponseRules/Case.autoResponseRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/autoResponseRules/Lead.autoResponseRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/AccountMaker.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/AccountMaker.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/EmailMissionSpecialist.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/EmailMissionSpecialist.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Human.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Human.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/MessageMaker.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/MessageMaker.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/QueryController.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/QueryController.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/RandomCaseMaker.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/RandomCaseMaker.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/RandomCaseUpdate.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/RandomCaseUpdate.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cleanDataServices/DataCloudGeoLocation.cleanDataService" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/communities/Internal Zone.community" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/duplicateRules/Account.Standard_Account_Duplicate_Rule.duplicateRule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/duplicateRules/Contact.Standard_Contact_Duplicate_Rule.duplicateRule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/duplicateRules/Lead.Standard_Lead_Duplicate_Rule.duplicateRule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entitlementProcesses/standard case.entitlementProcess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/escalationRules/Case.escalationRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flexipages/LightningSalesConsole_UtilityBar.flexipage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flexipages/LightningService_UtilityBar.flexipage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homePageLayouts/DE Default.homePageLayout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iframeWhiteListUrlSettings/IframeWhiteListUrlSettings.iframeWhiteListUrlSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labels/CustomLabels.labels" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Account-Account %28Marketing%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Account-Account %28Sales%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Account-Account %28Support%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Account-Account Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AlternativePaymentMethod-Alternative Payment Method Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ApiAnomalyEventStore-API Anomaly Event Store Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AppointmentInvitation-Appointment Invitation Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Asset-Asset Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AssetAction-Asset Action Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AssetActionSource-Asset Action Source Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AssetRelationship-Asset Relationship Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AssetStatePeriod-Asset State Period Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AssignedResource-Assigned Resource Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AuthorizationForm-Authorization Form Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AuthorizationFormConsent-Authorization Form Consent Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AuthorizationFormDataUse-Authorization Form Data Use Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AuthorizationFormText-Authorization Form Text Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/BusinessBrand-Business Brand Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Campaign-Campaign Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/CampaignMember-Campaign Member Page Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/CardPaymentMethod-Card Payment Method Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Case-Case %28Marketing%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Case-Case %28Sales%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Case-Case %28Support%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Case-Case Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/CaseClose-Close Case Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/CaseMilestone-Case Milestone Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/CommunityMemberLayout-Community Member Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ConsumptionRate-Consumption Rate Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ConsumptionSchedule-Consumption Schedule Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Contact-Contact %28Marketing%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Contact-Contact %28Sales%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Contact-Contact %28Support%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Contact-Contact Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ContactPointAddress-Contact Point Address Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ContactPointEmail-Contact Point Email Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ContactPointPhone-Contact Point Phone Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ContactPointTypeConsent-Contact Point Type Consent Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ContentVersion-Content Version Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Contract-Contract Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ContractLineItem-Contract Line Item Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Country__c-Country Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/CredentialStuffingEventStore-Credential Stuffing Event Store Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/CreditMemo-Credit Memo Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/CreditMemoLine-Credit Memo Line Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Customer-Customer Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/DandBCompany-D%26B Company Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/DataUseLegalBasis-Data Use Legal Basis Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/DataUsePurpose-Data Use Purpose Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Department__c-Department Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/DigitalWallet-Digital Wallet Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/DuplicateRecordSet-Duplicate Record Set Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/EmailMessage-Email Message Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Employee_Job__c-Employee Job Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Employee__c-Employee Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Entitlement-Entitlement Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/EntityMilestone-Object Milestone Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Event-Event Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/FeedItem-Feed Item Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/FinanceBalanceSnapshot-Finance Balance Snapshot Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/FinanceTransaction-Finance Transaction Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Global-Global Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Idea-Idea Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Individual-Individual Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Invoice-Invoice Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/InvoiceLine-Invoice Line Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Job__c-Job Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Lead-Lead %28Marketing%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Lead-Lead %28Sales%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Lead-Lead %28Support%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Lead-Lead Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/LegalEntity-Legal Entity Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Location__c-Location Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Macro-Macro Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/OperatingHours-Operating Hours Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Opportunity-Opportunity %28Marketing%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Opportunity-Opportunity %28Sales%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Opportunity-Opportunity %28Support%29 Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Opportunity-Opportunity Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/OpportunityLineItem-Opportunity Product Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Order-Order Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/OrderItem-Order Product Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Payment-Payment Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/PaymentAuthAdjustment-Payment Authorization Adjustment Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/PaymentAuthorization-Payment Authorization Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/PaymentGateway-Payment Gateway Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/PaymentGatewayLog-Payment Gateway Log Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/PaymentGroup-Payment Group Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/PaymentLineInvoice-Payment Line Invoice Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Pricebook2-Price Book Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/PricebookEntry-Price Book Entry Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ProcessException-Process Exception Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Product2-Product Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ProductConsumptionSchedule-Product Consumption Schedule Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/QuickText-Quick Text Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Refund-Refund Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/RefundLinePayment-Refund Line Payment Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Region__c-Region Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ReportAnomalyEventStore-Report Anomaly Event Store Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ResourceAbsence-Resource Absence Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ResourcePreference-Resource Preference Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ReturnOrder-Return Order Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ReturnOrderItemAdjustment-Return Order Item Adjustment Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ReturnOrderItemTax-Return Order Item Tax Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ReturnOrderLineItem-Return Order Line Item Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Scorecard-Scorecard Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ScorecardAssociation-Scorecard Association Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ScorecardMetric-Scorecard Metric Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Seller-Seller Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ServiceAppointment-Service Appointment Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ServiceContract-Service Contract Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ServiceResource-Service Resource Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ServiceResourceSkill-Service Resource Skill Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ServiceTerritory-Service Territory Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ServiceTerritoryMember-Service Territory Member Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/SessionHijackingEventStore-Session Hijacking Event Store Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Shift-Shift Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/SkillRequirement-Skill Requirement Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/SocialPersona-Social Persona Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Solution-Solution Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Task-Task Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/ThreatDetectionFeedback-Threat Detection Feedback Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/TimeSlot-Time Slot Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/User-User Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/UserProvAccount-User Provisioning Account Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/UserProvisioningLog-User Provisioning Log Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/UserProvisioningRequest-User Provisioning Request Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WebStore-Store Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WebStoreConfig-Web Store Configuration Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkOrder-Work Order Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkOrderLineItem-Work Order Line Item Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkPlan-Work Plan Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkPlanTemplate-Work Plan Template Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkPlanTemplateEntry-Work Plan Template Entry Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkStep-Work Step Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkStepTemplate-Work Step Template Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkType-Work Type Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkTypeGroup-Work Type Group Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/WorkTypeGroupMember-Work Type Group Member Layout.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managedContentTypes/cms_document.managedContentType" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managedContentTypes/cms_image.managedContentType" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managedContentTypes/news.managedContentType" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matchingRules/Account.matchingRule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matchingRules/Contact.matchingRule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matchingRules/Individual.matchingRule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matchingRules/Lead.matchingRule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/milestoneTypes/Close Case.milestoneType" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/milestoneTypes/Escalate Case.milestoneType" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/milestoneTypes/First Response to Customer.milestoneType" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notificationTypeConfig/NotificationTypeConfig.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectTranslations/Country__c-en_US.objectTranslation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectTranslations/Department__c-en_US.objectTranslation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectTranslations/Employee_Job__c-en_US.objectTranslation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectTranslations/Employee__c-en_US.objectTranslation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectTranslations/Job__c-en_US.objectTranslation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectTranslations/Location__c-en_US.objectTranslation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectTranslations/Region__c-en_US.objectTranslation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Country__c.object" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Department__c.object" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Employee_Job__c.object" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Employee__c.object" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Job__c.object" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Location__c.object" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Region__c.object" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/permissionsets/Experience_Profile_Manager.permissionset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Admin.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Integration User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Security User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Authenticated Website.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Chatter External User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Chatter Free User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Chatter Moderator User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/ContractManager.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Cross Org Data Proxy User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Marketing Profile.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Sales Profile.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Support Profile.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Customer Community Login User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus Login User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Customer Community User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Custom.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Standard.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/External Apps Login User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/External Identity User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - App Subscription User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - Free User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Gold Partner User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/High Volume Customer Portal User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/HighVolumePortal.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Identity User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/MarketingProfile.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Minimum Access - Salesforce.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Partner App Subscription User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Partner Community Login User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Partner Community User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/PlatformPortal.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Read Only.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Silver Partner User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/SolutionManager.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Standard.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/StandardAul.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profiles/Work%2Ecom Only User.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/Case.LogACall.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/Case.NewChildCase.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/CollaborationGroup.NewGroupMember.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/CollaborationGroup.NewGroupRecord.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/FeedItem.NewTaskFromFeedItem.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/LogACall.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/NewAccount.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/NewCase.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/NewContact.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/NewEvent.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/NewGroup.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/NewLead.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/NewNote.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/NewOpportunity.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/NewTask.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/SendEmail.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/Task.Defer.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/Task.EditDescription.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/Task.UpdatePriority.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickActions/Task.UpdateStatus.quickAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remoteSiteSettings/ApexDevNet.remoteSite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportTypes/screen_flows_prebuilt_crt.reportType" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/CEO.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/CFO.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/COO.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/ChannelSalesTeam.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/CustomerSupportInternational.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/CustomerSupportNorthAmerica.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/DirectorChannelSales.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/DirectorDirectSales.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/EasternSalesTeam.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/InstallationRepairServices.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/MarketingTeam.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/SVPCustomerServiceSupport.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/SVPHumanResources.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/SVPSalesMarketing.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/VPInternationalSales.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/VPMarketing.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/VPNorthAmericanSales.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roles/WesternSalesTeam.role" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Account.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/AccountIntelligence.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Actions.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Activities.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Address.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Analytics.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/AnalyticsDataServices.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Apex.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/AppAnalytics.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/AppExperience.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Archive.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Blockchain.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Bot.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/BusinessHours.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Campaign.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Case.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Chatter.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/ChatterEmailsMD.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Commerce.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Communities.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Company.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/ConnectedApp.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Content.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Contract.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/ConversationalIntelligence.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Currency.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/CustomAddressField.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/CustomerDataPlatform.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/DataDotCom.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Deployment.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/DevHub.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Discovery.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/DocumentChecklist.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/EAC.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/EinsteinDocumentCapture.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/EmailAdministration.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/EmailIntegration.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/EmailTemplate.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/EmployeeFieldAccess.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/EmployeeUser.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/EncryptionKey.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/EnhancedNotes.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Entitlement.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Essentials.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Event.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/ExperienceBundle.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/ExternalServices.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/FieldService.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/FileUploadAndDownloadSecurity.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/FilesConnect.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Flow.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Forecasting.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Formula.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/GoogleApps.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Ideas.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/IncidentMgmt.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Industries.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/InvocableAction.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Knowledge.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Language.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/LeadConfig.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/LightningExperience.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/LiveAgent.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/LiveMessage.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Macro.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/MailMerge.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Meetings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Mobile.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/MyDomain.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Name.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Notifications.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/ObjectLinking.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/OmniChannel.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Opportunity.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Order.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/OrderManagement.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Org.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Pardot.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/PardotEinstein.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/PartyDataModel.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/PathAssistant.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/PaymentsManagementEnabled.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Picklist.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/PlatformEncryption.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Portals.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/PredictionBuilder.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Privacy.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Product.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/QuickText.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Quote.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/RealTimeEvent.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/RecommendationBuilder.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/RecordPage.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/RetailExecution.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Schema.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Search.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Security.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/ServiceCloudVoice.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/ServiceSetupAssistant.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Sharing.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Site.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/SocialProfile.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/SourceTracking.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Survey.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/SystemNotification.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Territory2.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Trailhead.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/TrialOrg.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/UserEngagement.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/UserInterface.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/UserManagement.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/Voice.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/WebToX.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/settings/WorkDotCom.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Account.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ActionCadenceAsyncJob.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ActivityRecurrence2.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ActivityRecurrence2Exception.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/AlternativePaymentMethod.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/AppointmentInvitation.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Asset.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/AssistantInteraction.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/AssistantProgress.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/AssistantRecommendation.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/AuthorizationForm.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/AuthorizationFormConsent.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/AuthorizationFormDataUse.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/BusinessBrand.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/CalendarModel.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/CalendarView.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Campaign.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Case.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ChangeRequest.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/CleanLeadBackup.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/CommSubscription.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/CommSubscriptionChannelType.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/CommSubscriptionConsent.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ComponentResponseCache.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ConsumptionSchedule.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Contact.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ContactPointConsent.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ContactPointTypeConsent.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ContactRequest.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ConvCoachingRecommendation.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/CreditMemo.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Customer.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/DataPrepServiceLocator.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/DataUseLegalBasis.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/DataUsePurpose.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/EngagementChannelType.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ExchangeUserMapping.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ExternalEventMapping.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/FinanceBalanceSnapshot.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/FinanceTransaction.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/FlowInterview.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/FlowInterviewLog.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/FlowTestResult.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Image.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Incident.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Individual.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Invoice.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Job__c.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Lead.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/LearningItem.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/LearningItemAssignment.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/LearningItemProgress.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/LegalEntity.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ListEmail.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/LmaApiSession.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/LocWaitlistMsgTemplate.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Location.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/LocationGroup.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/LocationWaitlist.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/LocationWaitlistedParty.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Macro.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/MacroUsage.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ManagedContentRelease.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/MessagingEndUser.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/MessagingSession.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/MobileHomeConfiguration.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/NotifDeliveryUserPref.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Opportunity.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Order.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/OrgDeleteRequest.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/PartyConsent.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Problem.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ProcessException.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Product2.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/PromptAction.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/PromptError.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/QuickText.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/QuickTextUsage.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/RecordMergeHistory.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Region__c.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ReportResultBlob.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/RequestsForAccessSIQ.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ReturnOrder.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Scorecard.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Seller.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ServiceAppointment.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ServiceContract.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ServiceResource.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/ServiceTerritory.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/Shift.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/SiqUserBlacklist.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/StreamActivityAccess.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/StreamingChannel.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/TodayGoal.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/User.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/UserAppMenuCustomization.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/UserEmailPreferredPerson.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/UserProvisioningRequest.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/VoiceCall.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/WebStore.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/WorkOrder.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/WorkPlan.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/WorkPlanTemplate.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/WorkStepTemplate.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/WorkType.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharingRules/WorkTypeGroup.sharingRules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Account.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Asset.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Campaign.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Case.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ChangeRequest.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Contact.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ContentDocument.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Contract.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Country__c.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Department__c.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Employee_Job__c.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Employee__c.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Event.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Incident.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Job__c.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Lead.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Location__c.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Opportunity.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Order.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Problem.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Region__c.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ResourceAbsence.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ResourcePreference.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ReturnOrder.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ReturnOrderLineItem.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ServiceAppointment.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ServiceResource.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ServiceResourceSkill.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ServiceTerritory.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/ServiceTerritoryMember.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Shift.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Solution.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/Task.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/WorkOrder.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/WorkOrderLineItem.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/WorkPlan.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/WorkPlanTemplate.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/WorkPlanTemplateEntry.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/WorkStep.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicsForObjects/WorkStepTemplate.topicsForObjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/Case.workflow" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Apex Class" />
+        <option value="Apex Metadata" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="Encetech-Dev-Org">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1663782621419" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="apexLogLevel" value="FINEST" />
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="Encetech-Dev-Org">
+              <value>
+                <ConnectionWorkspaceSettings>
+                  <option name="buildSuccessDatesBySourceRootRelativePath">
+                    <map>
+                      <entry key="APEXCLASS:EMAILMISSIONSPECIALIST" value="1663786117000" />
+                      <entry key="APEXCLASS:RANDOMCASEMAKER" value="1663788188067" />
+                      <entry key="APEXCLASS:RANDOMCASEUPDATE" value="1663789763547" />
+                    </map>
+                  </option>
+                </ConnectionWorkspaceSettings>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="resultsSplitterProportion" value="0.44245523" />
+            <option name="savedDocuments">
+              <list>
+                <SoqlQuerySavedDocument>
+                  <option name="body" value="SELECT Case.Account.AccountNumber FROM Case" />
+                  <option name="name" value="SOQL Query 1" />
+                </SoqlQuerySavedDocument>
+              </list>
+            </option>
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F5WqYOLJBgrs1TF4Vvd1EM1zEe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "/home/abaddon/Documents/Salesforce/Encetech",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb0554ec-abd1-4ca3-9de3-b63043332f5c" name="Changes" comment="" />
+      <created>1663782621321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663782621321</updated>
+      <workItem from="1663782622372" duration="76000" />
+      <workItem from="1663782699040" duration="386000" />
+      <workItem from="1663783091527" duration="408000" />
+      <workItem from="1663783505325" duration="69000" />
+      <workItem from="1663783578727" duration="76000" />
+      <workItem from="1663783660238" duration="154000" />
+      <workItem from="1663783819119" duration="5290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+</project>
